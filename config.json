@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "weather-lookup-app",
+      "title": "Weather Lookup App",
+      "description": "Use Python to request data from a weather API and display it",
+      "path": "assignments/weather-lookup-app",
+      "dueDate": "2026-08-05",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
